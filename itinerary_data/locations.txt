@@ -1,0 +1,100 @@
+Tower of London urban_attraction United Kingdom
+Buckingham Palace urban_attraction United Kingdom
+British Museum urban_attraction United Kingdom
+Royal Mile urban_attraction United Kingdom
+St. Paul's Cathedral urban_attraction United Kingdom
+Big Ben & Houses of Parliament urban_attraction United Kingdom
+Natural History Museum urban_attraction United Kingdom
+National Gallery urban_attraction United Kingdom
+Edinburgh Castle urban_attraction United Kingdom
+Tate Modern urban_attraction United Kingdom
+Lake District National Park natural_attraction United Kingdom
+Scottish Highlands natural_attraction United Kingdom
+Snowdonia National Park natural_attraction United Kingdom
+Jurassic Coast natural_attraction United Kingdom
+Peak District National Park natural_attraction United Kingdom
+Giant's Causeway natural_attraction United Kingdom
+Cotswolds natural_attraction United Kingdom
+Isle of Skye natural_attraction United Kingdom
+New Forest National Park natural_attraction United Kingdom
+Loch Ness natural_attraction United Kingdom
+Eiffel Tower urban_attraction France
+Louvre Museum urban_attraction France
+Notre-Dame Cathedral urban_attraction France
+Arc de Triomphe urban_attraction France
+Montmartre & Sacre-Coeur urban_attraction France
+Musee d'Orsay urban_attraction France
+Palace of Versailles urban_attraction France
+Château de Fontainebleau urban_attraction France
+Champs-Elysees urban_attraction France
+Sainte-Chapelle urban_attraction France
+French Riviera natural_attraction France
+Mont Blanc natural_attraction France
+Normandy Beaches natural_attraction France
+Gorges du Verdon natural_attraction France
+Camargue National Park natural_attraction France
+Calanques National Park natural_attraction France
+Dordogne Valley natural_attraction France
+Loire Valley natural_attraction France
+Lavender Fields natural_attraction France
+Puy du Fou natural_attraction France
+CN Tower urban_attraction Canada
+Parliament Hill urban_attraction Canada
+Old Montreal urban_attraction Canada
+Banff Avenue urban_attraction Canada
+Royal Ontario Museum urban_attraction Canada
+Vancouver Aquarium urban_attraction Canada
+Toronto Islands urban_attraction Canada
+Notre-Dame Basilica urban_attraction Canada
+Stanley Park urban_attraction Canada
+Art Gallery of Ontario urban_attraction Canada
+Banff National Park natural_attraction Canada
+Niagara Falls natural_attraction Canada
+Rocky Mountains natural_attraction Canada
+Whistler Blackcomb natural_attraction Canada
+Jasper National Park natural_attraction Canada
+Great Bear Rainforest natural_attraction Canada
+Cabot Trail natural_attraction Canada
+Gros Morne National Park natural_attraction Canada
+Pacific Rim National Park Reserve natural_attraction Canada
+Bruce Peninsula National Park natural_attraction Canada
+Statue of Liberty urban_attraction United States
+Central Park urban_attraction United States
+National Mall urban_attraction United States
+Times Square urban_attraction United States
+Golden Gate Bridge urban_attraction United States
+Empire State Building urban_attraction United States
+Smithsonian Museum urban_attraction United States
+Hollywood Walk of Fame urban_attraction United States
+White House urban_attraction United States
+Millennium Park urban_attraction United States
+Grand Canyon National Park natural_attraction United States
+Yellowstone National Park natural_attraction United States
+Yosemite National Park natural_attraction United States
+Zion National Park natural_attraction United States
+Great Smoky Mountains National Park natural_attraction United States
+Glacier National Park natural_attraction United States
+Mount Rainier National Park natural_attraction United States
+Everglades National Park natural_attraction United States
+Bryce Canyon National Park natural_attraction United States
+Death Valley National Park natural_attraction United States
+Colosseum urban_attraction Italy
+Vatican Museums urban_attraction Italy
+Leaning Tower of Pisa urban_attraction Italy
+Uffizi Gallery urban_attraction Italy
+St. Peter's Basilica urban_attraction Italy
+Doges' Palace urban_attraction Italy
+Pantheon urban_attraction Italy
+Piazza del Duomo urban_attraction Italy
+Basilica di San Marco urban_attraction Italy
+Trevi Fountain urban_attraction Italy
+Lake Como natural_attraction Italy
+Cinque Terre natural_attraction Italy
+Amalfi Coast natural_attraction Italy
+Dolomites natural_attraction Italy
+Mount Etna natural_attraction Italy
+Vesuvius Volcano natural_attraction Italy
+Sardinia Beaches natural_attraction Italy
+Val d'Orcia natural_attraction Italy
+Aeolian Islands natural_attraction Italy
+Gran Paradiso National Park natural_attraction Italy
