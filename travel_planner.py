@@ -124,7 +124,7 @@ class TravelPlanner(tk.Tk):
         Initializes entries used in the GUI.
         """
         
-        self.name_entry = self.config_entry(tk.Entry(self.name_entry_frame, textvariable=self.name_display_var, width=40))
+        self.name_entry = self.config_entry(tk.Entry(self.name_entry_frame, textvariable=self.name_display_var, width=20))
         self.duration_entry = self.config_entry(tk.Entry(self.right_preference_frame, textvariable=self.duration_display_var, width=4))
         self.duration_entry.place(relx=0.46, rely=0.6, anchor="w")
         self.name_entry.place(relx=0.6, rely=0.5, anchor="center")
@@ -319,8 +319,8 @@ class TravelPlanner(tk.Tk):
         # Creates the buttons for the menu frame.
         self.config_btn(tk.Button(self.menu_frame, width=15, text="Start Planning", command=self.display_next_frame))\
                                                    .place(relx=0.5, rely=0.65, anchor="center")
-        self.config_btn(tk.Button(self.menu_frame, width=9, text="Quit", command=self.end_program))\
-                                                   .place(relx=0.65, rely=0.65, anchor="center")
+        self.config_btn(tk.Button(self.menu_frame, width=5, text="Quit", command=self.end_program))\
+                                                   .place(relx=0.70, rely=0.65, anchor="center")
         
         # Creates the buttons for the name entry frame.
         self.config_btn(tk.Button(self.name_entry_frame, width=15, text=">>>Next>>>",\
